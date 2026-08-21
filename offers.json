@@ -1,0 +1,121 @@
+{
+  "monthTitle": "Monthly Special Offers & Promotions",
+  "storeInfo": {
+    "name": "Titan Eye+ Flagship Store",
+    "location": "100 Feet Road, Indiranagar, Bengaluru",
+    "fullAddress": "777 E, 100 Feet Rd, opp. to New Horizon Public School, HAL 2nd Stage, Indiranagar, Bengaluru, Karnataka 560008",
+    "phone": "080 2521 2737",
+    "phoneRaw": "+918025212737",
+    "whatsapp": "918025212737",
+    "googleRating": "4.9",
+    "reviewCount": "3,300+",
+    "timings": "10:00 AM – 9:30 PM (All 7 Days)",
+    "googleMapsUrl": "https://maps.google.com/?q=Titan+Eye+Plus+777+E+100+Feet+Rd+Indiranagar+Bengaluru"
+  },
+  "offers": [
+    {
+      "id": "bogo-frames",
+      "category": "eyeglasses",
+      "badge": "FLAGSHIP SPECIAL",
+      "title": "Buy 1 Get 1 Free on Branded Eyewear",
+      "discount": "BUY 1 GET 1 FREE",
+      "description": "Buy any branded frame or sunglasses and get the second pair absolutely FREE! Choose from over 1,500+ latest trendy designs.",
+      "validity": "Valid for this month",
+      "terms": "Applicable on select house and international brands. T&C apply.",
+      "isFeatured": true,
+      "icon": "glasses",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I want to avail the Buy 1 Get 1 Free offer on frames. Please share details."
+    },
+    {
+      "id": "free-eye-test",
+      "category": "services",
+      "badge": "100% FREE",
+      "title": "20-Step Zero-Error Eye Test",
+      "discount": "WORTH ₹300 • FREE",
+      "description": "Comprehensive 20-step computerized eye test by certified optometrists using Zeiss & Topcon technology. Complete vision health checkup.",
+      "validity": "Free for all store visitors",
+      "terms": "Takes 15 mins. Walk-ins welcome or pre-book for priority slot.",
+      "isFeatured": true,
+      "icon": "eye",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I would like to book a Free 20-Step Eye Test appointment."
+    },
+    {
+      "id": "smart-eyex",
+      "category": "smart",
+      "badge": "TECH DEAL",
+      "title": "Titan EyeX & Fastrack Vibes Smart Audio Frames",
+      "discount": "FLAT 30% OFF",
+      "description": "Bluetooth calling, open-ear stereo sound, touch controls, voice assistant & prescription lens compatibility in one sleek frame.",
+      "validity": "Limited Stock",
+      "terms": "Valid on Titan EyeX 2.0 and Fastrack Vibes audio sunglasses.",
+      "isFeatured": true,
+      "icon": "headphones",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I am interested in testing the Titan EyeX / Fastrack Vibes smart audio glasses."
+    },
+    {
+      "id": "luxury-carnival",
+      "category": "sunglasses",
+      "badge": "BRAND CARNIVAL",
+      "title": "Up to 40% Off on Ray-Ban, Vogue & Oakley",
+      "discount": "UP TO 40% OFF",
+      "description": "Exclusive flagship store discounts on 100% authentic Ray-Ban, Vogue Eyewear, Oakley, Maui Jim, Polaroid and Burberry collections.",
+      "validity": "Valid this month",
+      "terms": "100% genuine brand warranty card and original case included.",
+      "isFeatured": false,
+      "icon": "sparkles",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, please share catalog and offers on Ray-Ban and Vogue sunglasses."
+    },
+    {
+      "id": "contact-lenses",
+      "category": "contact-lenses",
+      "badge": "COMBO SAVER",
+      "title": "Contact Lenses: Buy 2 Boxes + Free Solution",
+      "discount": "FREE ₹450 SOLUTION",
+      "description": "Buy 2 monthly or daily disposable lens packs (Bausch + Lomb, Alcon Air Optix, or Acuvue) and get a 300ml multi-purpose solution bottle FREE.",
+      "validity": "Ongoing Monthly Offer",
+      "terms": "Free contact lens trial and fitting consultation included.",
+      "isFeatured": false,
+      "icon": "disc",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I need contact lenses (Bausch+Lomb/Alcon/Acuvue) with the free solution offer."
+    },
+    {
+      "id": "free-service-repairs",
+      "category": "services",
+      "badge": "ALWAYS FREE",
+      "title": "Free Specs Repair, Alignment & Ultrasonic Cleaning",
+      "discount": "100% COMPLIMENTARY",
+      "description": "Bring any spectacles (any brand) for deep ultrasonic cleaning, frame re-alignment, screw tightening, and silicone nose-pad replacement by master technician Murshid.",
+      "validity": "Walk-in Anytime",
+      "terms": "Instant service in under 10 minutes at our Indiranagar showroom.",
+      "isFeatured": false,
+      "icon": "wrench",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I need frame repair/alignment service at your store."
+    },
+    {
+      "id": "prog-lens-upgrade",
+      "category": "eyeglasses",
+      "badge": "CLEAR VISION",
+      "title": "Progressive Lenses: Free Blue-Cut & Anti-Glare Upgrade",
+      "discount": "SAVE ₹1,500",
+      "description": "Upgrade your progressive or bifocal lenses with free blue-light filter & anti-reflective coating for seamless digital screen comfort.",
+      "validity": "Valid this month",
+      "terms": "Available on Titan ClearSight and Crizal progressive ranges.",
+      "isFeatured": false,
+      "icon": "monitor",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I want to know more about Progressive Lenses with free blue-cut coating."
+    },
+    {
+      "id": "corporate-student",
+      "category": "eyeglasses",
+      "badge": "SPECIAL PASS",
+      "title": "Indiranagar Tech & Student Privilege: Extra 10% Off",
+      "discount": "EXTRA 10% OFF",
+      "description": "Working in Indiranagar/Domlur/HAL or a student? Flash your corporate badge or student ID to claim an extra 10% discount on total billing.",
+      "validity": "Valid with valid ID card",
+      "terms": "Can be clubbed with select existing frame discounts.",
+      "isFeatured": false,
+      "icon": "badge-percent",
+      "whatsappMessage": "Hi Titan Eye+ Indiranagar, I would like to avail the Corporate/Student privilege discount."
+    }
+  ]
+}
